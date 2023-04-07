@@ -1,7 +1,7 @@
 # Song
 "Song" is a music player that combines elegant design and ease of use. Listen to your favorite tracks anytime and anywhere, enjoying crystal-clear sound and convenient control.
 
-<img src="" alt="Song">
+<img src="https://github.com/maksymFrontend/Song/blob/main/public/mainImg.png?raw=true" alt="Song">
 
 Music player "Song" is a project created to make life easier for music connoisseurs and music lovers. It provides a convenient and easy way to listen to music on any device, be it a smartphone, tablet or computer. Thanks to "Song" you can enjoy your favorite tracks without limits - create playlists and much more. This project also has a wide range of features that help the user quickly and conveniently find their music.
 
